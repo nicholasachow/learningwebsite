@@ -1,26 +1,15 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
+# Introduction
 
-[Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
+This is a landing page/site dedicated to efficiency. I created without any prior HTML/CSS knowledge by playing around with a bootstrap template from Start Bootstrap. The impetus for this idea is accredited to Code4Startup, which pointed me towards the resources necessary to create this landing page.
 
 ## Getting Started
 
-To use this theme, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+Click around, and check out all the modules on learning efficiency.
 
-## Bugs and Issues
+## Feedback
 
-Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-agency/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).
-
-## Creator
-
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Partner at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+This is my first time creating anything like this, so feedback is greatly appreciated. You can reach me at sprinting.goldfish@gmail.com.
 
 ## Copyright and License
 
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-agency/blob/gh-pages/LICENSE) license.
+Copyright 2015 Nicholas Chow. Code released under the Apache 2.0 license.
