@@ -129,6 +129,18 @@ fieldset[disabled] .btn-primary.active {
     /* background-color: #fed136; */
 }
 
+.btn-test {
+    padding: 20px 40px;
+    /* border-color: #fed136; */
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #777;
+    background-color: #F8F8F8; 
+}
+
 .btn-xl:hover,
 .btn-xl:focus,
 .btn-xl:active,
